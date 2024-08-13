@@ -7,13 +7,12 @@
         <h1 text-3xl="" font-bold="" mb-2="">
           钟媛媛 <small style="font-style: italic; opacity: 0.5">Yuanuan.zhong</small>
         </h1>
-        <div op80="" mb-2="" flex-center="">👨‍💻 前端开发工程师</div>
+        <div op80="" mb-2="" flex-center="">👨‍💻 前端开发工程师 工作经验： 5年</div>
         <p>
           📮<a target="_blank" href="mailto:2767389215@qq.com" underline="true">
             2767389215@qq.com
           </a>
           📱<a target="_blank" href="tel:13133838536">13133838536</a>
-          工作经验： 5年
         </p>
         <p style="display: flex; justify-content: space-between">
           <span style="margin-right: 20px">教育背景：江西师范大学</span>
