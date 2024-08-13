@@ -67,7 +67,7 @@
       </li>
       <li>
         <h3>
-          物盾盾平台
+          物安盾平台
           <small style="opacity: 0.6"
             >(技术栈:react、typescript、webpack、qiankun、Echarts、papaparse)</small
           >
@@ -174,8 +174,8 @@
         2、参与cba官网的重构，负责⼤部分重构工作 <br />
         3、独⽴负责nfl会员俱乐部公众号网页的开发，实现微信授权登录，使⽤微信jsapi实现本地相册访问更换头像，pdf
         ⽂件预览和下载等（react typescript）<br />
-        4、独立负责拜仁官⽹重构，⽤媒体查询和弹性布局实现响应式布局，⼀套代码适配移动端和pc端（react
-        typescript
+        4、独立负责拜仁官⽹重构，⽤媒体查询和弹性布局实现响应式布局，⼀套代码适配移动端和pc端(react
+        typescript)
       </li>
     </ul>
   </main>
